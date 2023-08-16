@@ -1,0 +1,23 @@
+{
+  "name": "march-2023-react-hw777",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrayHead/march-2023-react-hw.git"
+  },
+  "dependencies": {
+    "typescript": "^5.1.6",
+    "axios": "0.27.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrayHead/march-2023-react-hw/issues"
+  },
+  "homepage": "https://github.com/GrayHead/march-2023-react-hw#readme"
+}
