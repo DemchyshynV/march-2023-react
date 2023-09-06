@@ -1,0 +1,17 @@
+.Header{
+    display: flex;
+    font-size: 25px;
+    background-color: blue;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: snow;
+}
