@@ -20,14 +20,14 @@ const router = createBrowserRouter([
             },
             {
                 path:'posts',
-                element:<PostsPage/>
+                element:<PostsPage/>,
             },
             {
                 path:'count',
                 element:<CountPage/>
             }
         ]
-    }
+    },
 ])
 
 export {
